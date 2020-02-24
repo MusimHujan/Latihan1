@@ -4833,3 +4833,1347 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORTS",MNC SPORT
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTM3U
+#EXTINF:-1,UK | Sky Sports Action HD
+http://cloud9tech.ddns.net:25461/tester/tester/4909
+#EXTINF:-1,UK | Sky Sports Action SD
+http://cloud9tech.ddns.net:25461/tester/tester/4901
+#EXTINF:-1,UK | Sky Sports Arena HD
+http://cloud9tech.ddns.net:25461/tester/tester/4912
+#EXTINF:-1,UK | Sky Sports Arena SD
+http://cloud9tech.ddns.net:25461/tester/tester/4902
+#EXTINF:-1,UK | Sky Sports Cricket HD
+http://cloud9tech.ddns.net:25461/tester/tester/4908
+#EXTINF:-1,UK | Sky Sports Cricket SD
+http://cloud9tech.ddns.net:25461/tester/tester/4898
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4914
+#EXTINF:-1,UK | Sky Sports F1 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4900
+#EXTINF:-1,UK | Sky Sports Football HD
+http://cloud9tech.ddns.net:25461/tester/tester/4913
+#EXTINF:-1,UK | Sky Sports Football SD
+http://cloud9tech.ddns.net:25461/tester/tester/4897
+#EXTINF:-1,UK | Sky Sports Golf HD
+http://cloud9tech.ddns.net:25461/tester/tester/4910
+#EXTINF:-1,UK | Sky Sports Golf SD
+http://cloud9tech.ddns.net:25461/tester/tester/4899
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://cloud9tech.ddns.net:25461/tester/tester/4915
+#EXTINF:-1,UK | Sky Sports Mix SD
+http://cloud9tech.ddns.net:25461/tester/tester/4904
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://cloud9tech.ddns.net:25461/tester/tester/4907
+#EXTINF:-1,UK | Sky Sports Main Event SD
+http://cloud9tech.ddns.net:25461/tester/tester/4906
+#EXTINF:-1,UK | Sky Sports News HD
+http://cloud9tech.ddns.net:25461/tester/tester/4918
+#EXTINF:-1,UK | Sky Sports News SD
+http://cloud9tech.ddns.net:25461/tester/tester/4903
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://cloud9tech.ddns.net:25461/tester/tester/4911
+#EXTINF:-1,UK | Sky Sports Premier League SD
+http://cloud9tech.ddns.net:25461/tester/tester/4896
+#EXTINF:-1,UK | Sky Sports Racing HD
+http://cloud9tech.ddns.net:25461/tester/tester/4916
+#EXTINF:-1,UK | Sky Sports Racing SD
+http://cloud9tech.ddns.net:25461/tester/tester/4870
+#EXTINF:-1,SPFL | Celtic TV
+http://cloud9tech.ddns.net:25461/tester/tester/5351
+#EXTINF:-1,SPFL | Celtic TV*
+http://cloud9tech.ddns.net:25461/tester/tester/5924
+#EXTINF:-1,SPFL | Rangers TV
+http://cloud9tech.ddns.net:25461/tester/tester/5352
+#EXTINF:-1,SPFL | Rangers TV*
+http://cloud9tech.ddns.net:25461/tester/tester/6888
+#EXTINF:-1,SPFL | Aberdeen TV
+http://cloud9tech.ddns.net:25461/tester/tester/5353
+#EXTINF:-1,SPFL | Aberdeen TV*
+http://cloud9tech.ddns.net:25461/tester/tester/7080
+#EXTINF:-1,SPFL | Dundee TV
+http://cloud9tech.ddns.net:25461/tester/tester/5354
+#EXTINF:-1,SPFL | Dundee United TV
+http://cloud9tech.ddns.net:25461/tester/tester/5355
+#EXTINF:-1,SPFL | Dunfermline TV
+http://cloud9tech.ddns.net:25461/tester/tester/5356
+#EXTINF:-1,SPFL | Falkirk TV
+http://cloud9tech.ddns.net:25461/tester/tester/5357
+#EXTINF:-1,SPFL | Hearts TV
+http://cloud9tech.ddns.net:25461/tester/tester/5358
+#EXTINF:-1,SPFL | Hibs TV
+http://cloud9tech.ddns.net:25461/tester/tester/5359
+#EXTINF:-1,SPFL | Hibs TV*
+http://cloud9tech.ddns.net:25461/tester/tester/7081
+#EXTINF:-1,SPFL | Kilmarnock FC TV
+http://cloud9tech.ddns.net:25461/tester/tester/5360
+#EXTINF:-1,SPFL | Motherwell TV
+http://cloud9tech.ddns.net:25461/tester/tester/5361
+#EXTINF:-1,SPFL | Partick Thistle TV
+http://cloud9tech.ddns.net:25461/tester/tester/5362
+#EXTINF:-1,SPFL | Raith Rovers TV
+http://cloud9tech.ddns.net:25461/tester/tester/5363
+#EXTINF:-1,SPFL | St Johnstone TV
+http://cloud9tech.ddns.net:25461/tester/tester/5364
+#EXTINF:-1,SPFL | ST Mirren TV
+http://cloud9tech.ddns.net:25461/tester/tester/5365
+#EXTINF:-1,UK | Betfred TV
+http://cloud9tech.ddns.net:25461/tester/tester/5799
+#EXTINF:-1,UK | Coral TV 1
+http://cloud9tech.ddns.net:25461/tester/tester/5800
+#EXTINF:-1,UK | Coral TV 2
+http://cloud9tech.ddns.net:25461/tester/tester/5801
+#EXTINF:-1,UK | Ladbrokes TV 1
+http://cloud9tech.ddns.net:25461/tester/tester/5802
+#EXTINF:-1,UK | Ladbrokes TV 2
+http://cloud9tech.ddns.net:25461/tester/tester/5803
+#EXTINF:-1,UK | Paddy Power TV 1
+http://cloud9tech.ddns.net:25461/tester/tester/5804
+#EXTINF:-1,UK | Paddy Power TV 2
+http://cloud9tech.ddns.net:25461/tester/tester/5805
+#EXTINF:-1,UK | SIS One
+http://cloud9tech.ddns.net:25461/tester/tester/5806
+#EXTINF:-1,UK | SIS Two
+http://cloud9tech.ddns.net:25461/tester/tester/5807
+#EXTINF:-1,UK | SIS Racing
+http://cloud9tech.ddns.net:25461/tester/tester/5808
+#EXTINF:-1,UK | William Hill BTV
+http://cloud9tech.ddns.net:25461/tester/tester/5809
+#EXTINF:-1,UK | William Hill TV1
+http://cloud9tech.ddns.net:25461/tester/tester/5810
+#EXTINF:-1,UK | William Hill TV2
+http://cloud9tech.ddns.net:25461/tester/tester/5811
+#EXTINF:-1,UK | PDC Darts (Events Only)
+http://cloud9tech.ddns.net:25461/tester/tester/5797
+#EXTINF:-1,UK | PDC Darts 2 (Events Only)
+http://cloud9tech.ddns.net:25461/tester/tester/5798
+#EXTINF:-1,EFLC | 01 Cardiff City vs Reading
+http://cloud9tech.ddns.net:25461/tester/tester/5065
+#EXTINF:-1,EFLC | 02 Derby County vs Stoke City
+http://cloud9tech.ddns.net:25461/tester/tester/5066
+#EXTINF:-1,EFLC | 03 Hull City vs Brentford
+http://cloud9tech.ddns.net:25461/tester/tester/5067
+#EXTINF:-1,EFLC | 04 Birmingham City vs Nottingham Forest
+http://cloud9tech.ddns.net:25461/tester/tester/5068
+#EXTINF:-1,EFLC | 05 Charlton Athletic vs Barnsley
+http://cloud9tech.ddns.net:25461/tester/tester/5069
+#EXTINF:-1,EFLC | 06 Fulham vs Huddersfield Town
+http://cloud9tech.ddns.net:25461/tester/tester/5070
+#EXTINF:-1,EFLC | 07 Leeds United vs Wigan Athletic
+http://cloud9tech.ddns.net:25461/tester/tester/5071
+#EXTINF:-1,EFLC | 08 Middlesbrough vs Blackburn Rovers
+http://cloud9tech.ddns.net:25461/tester/tester/5072
+#EXTINF:-1,EFLC | 09 Preston North End vs Swansea City
+http://cloud9tech.ddns.net:25461/tester/tester/5073
+#EXTINF:-1,EFLC | 10 Queens Park Rangers vs Bristol City
+http://cloud9tech.ddns.net:25461/tester/tester/5074
+#EXTINF:-1,EFLC | 11 Sheffield Wednesday vs Millwall
+http://cloud9tech.ddns.net:25461/tester/tester/5075
+#EXTINF:-1,EFLC | 12 West Bromwich Albion vs Luton Town
+http://cloud9tech.ddns.net:25461/tester/tester/5076
+#EXTINF:-1,EFL1 | 01 Cambridge United vs Colchester United
+http://cloud9tech.ddns.net:25461/tester/tester/5223
+#EXTINF:-1,EFL1 | 02 Cheltenham Town vs Morecambe
+http://cloud9tech.ddns.net:25461/tester/tester/5925
+#EXTINF:-1,EFL1 | 03 Crawley Town vs Scunthorpe United
+http://cloud9tech.ddns.net:25461/tester/tester/5926
+#EXTINF:-1,EFL1 | 04 Grimsby Town vs Forest Green Rovers 
+http://cloud9tech.ddns.net:25461/tester/tester/5927
+#EXTINF:-1,EFL1 | 05 Macclesfield Town vs Northampton
+http://cloud9tech.ddns.net:25461/tester/tester/5928
+#EXTINF:-1,EFL1 | 06 Mansfield Town vs Carlisle United
+http://cloud9tech.ddns.net:25461/tester/tester/5929
+#EXTINF:-1,EFL1 | 07 Oldham Athletic vs Bradford City
+http://cloud9tech.ddns.net:25461/tester/tester/5930
+#EXTINF:-1,EFL1 | 08 Plymouth Argyle vs Newport County
+http://cloud9tech.ddns.net:25461/tester/tester/5931
+#EXTINF:-1,EFL1 | 09 Port Vale vs Salford City
+http://cloud9tech.ddns.net:25461/tester/tester/6431
+#EXTINF:-1,EFL1 | 10 Stevenage vs Leyton Orient
+http://cloud9tech.ddns.net:25461/tester/tester/6432
+#EXTINF:-1,EFL1 | 11 Swindon Town vs Exeter City
+http://cloud9tech.ddns.net:25461/tester/tester/6433
+#EXTINF:-1,EFL1 | 12 Walsall vs Crewe Alexandra
+http://cloud9tech.ddns.net:25461/tester/tester/6434
+#EXTINF:-1,EFL2 | 01 Cambridge United vs Colchester United
+http://cloud9tech.ddns.net:25461/tester/tester/6435
+#EXTINF:-1,EFL2 | 02 Cheltenham Town vs Morecambe
+http://cloud9tech.ddns.net:25461/tester/tester/6436
+#EXTINF:-1,EFL2 | 03 Crawley Town vs Scunthorpe United
+http://cloud9tech.ddns.net:25461/tester/tester/6437
+#EXTINF:-1,EFL2 | 04 Grimsby Town vs Forest Green Rovers
+http://cloud9tech.ddns.net:25461/tester/tester/6438
+#EXTINF:-1,EFL2 | 05 Macclesfield Town vs Northampton
+http://cloud9tech.ddns.net:25461/tester/tester/6439
+#EXTINF:-1,EFL2 | 06 Mansfield Town vs Carlisle United
+http://cloud9tech.ddns.net:25461/tester/tester/6440
+#EXTINF:-1,EFL2 | 07 Oldham Athletic vs Bradford City
+http://cloud9tech.ddns.net:25461/tester/tester/6441
+#EXTINF:-1,EFL2 | 08 Plymouth Argyle vs Newport County
+http://cloud9tech.ddns.net:25461/tester/tester/6442
+#EXTINF:-1,EFL2 | 09 Port Vale vs Salford City
+http://cloud9tech.ddns.net:25461/tester/tester/6443
+#EXTINF:-1,EFL2 | 10 Stevenage vs Leyton Orient
+http://cloud9tech.ddns.net:25461/tester/tester/6444
+#EXTINF:-1,EFL2 | 11 Swindon Town vs Exeter City
+http://cloud9tech.ddns.net:25461/tester/tester/6445
+#EXTINF:-1,EFL2 | 12 Walsall vs Crewe Alexandra
+http://cloud9tech.ddns.net:25461/tester/tester/6446
+#EXTINF:-1,UK | La Liga TV
+http://cloud9tech.ddns.net:25461/tester/tester/6977
+#EXTINF:-1,IE | RTE One HD
+http://cloud9tech.ddns.net:25461/tester/tester/4886
+#EXTINF:-1,IE | RTE Two HD
+http://cloud9tech.ddns.net:25461/tester/tester/4887
+#EXTINF:-1,IE | RTE Junior
+http://cloud9tech.ddns.net:25461/tester/tester/4889
+#EXTINF:-1,IE | RTE News
+http://cloud9tech.ddns.net:25461/tester/tester/4888
+#EXTINF:-1,IE | TG 4
+http://cloud9tech.ddns.net:25461/tester/tester/4890
+#EXTINF:-1,IE | UTV
+http://cloud9tech.ddns.net:25461/tester/tester/4885
+#EXTINF:-1,IE |  UTV + 1
+http://cloud9tech.ddns.net:25461/tester/tester/6886
+#EXTINF:-1,IE | Virgin Media One
+http://cloud9tech.ddns.net:25461/tester/tester/4891
+#EXTINF:-1,IE | Virgin Media Two
+http://cloud9tech.ddns.net:25461/tester/tester/4892
+#EXTINF:-1,IE | Virgin Media Three
+http://cloud9tech.ddns.net:25461/tester/tester/4893
+#EXTINF:-1,IE | Channel 4 Ireland
+http://cloud9tech.ddns.net:25461/tester/tester/6876
+#EXTINF:-1,IE | Oireachtas
+http://cloud9tech.ddns.net:25461/tester/tester/4884
+#EXTINF:-1,IE | Eirsport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5095
+#EXTINF:-1,IE | Eirsport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5096
+#EXTINF:-1,IE | Virgin Media Sport HD
+http://cloud9tech.ddns.net:25461/tester/tester/4894
+#EXTINF:-1,UK | 4 Music
+http://cloud9tech.ddns.net:25461/tester/tester/4817
+#EXTINF:-1,UK | 4 Seven
+http://cloud9tech.ddns.net:25461/tester/tester/4688
+#EXTINF:-1,UK | 4 Seven HD
+http://cloud9tech.ddns.net:25461/tester/tester/4735
+#EXTINF:-1,UK | 5 Select
+http://cloud9tech.ddns.net:25461/tester/tester/4694
+#EXTINF:-1,UK | 5 Star
+http://cloud9tech.ddns.net:25461/tester/tester/4696
+#EXTINF:-1,UK | 5 USA
+http://cloud9tech.ddns.net:25461/tester/tester/4695
+#EXTINF:-1,UK | Alibi HD
+http://cloud9tech.ddns.net:25461/tester/tester/4729
+#EXTINF:-1,UK | Alibi SD
+http://cloud9tech.ddns.net:25461/tester/tester/4730
+#EXTINF:-1,UK | Animal Planet
+http://cloud9tech.ddns.net:25461/tester/tester/4760
+#EXTINF:-1,UK | Animal Planet HD
+http://cloud9tech.ddns.net:25461/tester/tester/4764
+#EXTINF:-1,UK | Baby TV
+http://cloud9tech.ddns.net:25461/tester/tester/4835
+#EXTINF:-1,UK | BBC 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4665
+#EXTINF:-1,UK | BBC 1 Channel Islands
+http://cloud9tech.ddns.net:25461/tester/tester/6879
+#EXTINF:-1,UK | BBC 1 East
+http://cloud9tech.ddns.net:25461/tester/tester/6880
+#EXTINF:-1,UK | BBC 1 East Midlands
+http://cloud9tech.ddns.net:25461/tester/tester/6881
+#EXTINF:-1,UK | BBC 1 London
+http://cloud9tech.ddns.net:25461/tester/tester/4845
+#EXTINF:-1,UK | BBC 1 North West
+http://cloud9tech.ddns.net:25461/tester/tester/4664
+#EXTINF:-1,UK | BBC 1 Northern Ireland HD
+http://cloud9tech.ddns.net:25461/tester/tester/4849
+#EXTINF:-1,UK | BBC 1 Scotland HD
+http://cloud9tech.ddns.net:25461/tester/tester/4847
+#EXTINF:-1,UK | BBC 1 South
+http://cloud9tech.ddns.net:25461/tester/tester/6883
+#EXTINF:-1,UK | BBC 1 Wales HD 
+http://cloud9tech.ddns.net:25461/tester/tester/4848
+#EXTINF:-1,UK | BBC 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4666
+#EXTINF:-1,UK | BBC 2 Northern Ireland
+http://cloud9tech.ddns.net:25461/tester/tester/4850
+#EXTINF:-1,UK | BBC 2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4667
+#EXTINF:-1,UK | BBC 2 Wales 
+http://cloud9tech.ddns.net:25461/tester/tester/4851
+#EXTINF:-1,UK | BBC 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4668
+#EXTINF:-1,UK | BBC 4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4669
+#EXTINF:-1,UK | BBC News HD
+http://cloud9tech.ddns.net:25461/tester/tester/4841
+#EXTINF:-1,UK | BBC News SD
+http://cloud9tech.ddns.net:25461/tester/tester/4842
+#EXTINF:-1,UK | BBC Parliament
+http://cloud9tech.ddns.net:25461/tester/tester/4843
+#EXTINF:-1,UK | BBC Red Button 1
+http://cloud9tech.ddns.net:25461/tester/tester/6878
+#EXTINF:-1,UK | BBC Scotland
+http://cloud9tech.ddns.net:25461/tester/tester/4855
+#EXTINF:-1,UK | Blaze
+http://cloud9tech.ddns.net:25461/tester/tester/4711
+#EXTINF:-1,UK | Boomerang
+http://cloud9tech.ddns.net:25461/tester/tester/4826
+#EXTINF:-1,UK | Box Nation HD
+http://cloud9tech.ddns.net:25461/tester/tester/4883
+#EXTINF:-1,UK | Box Nation SD
+http://cloud9tech.ddns.net:25461/tester/tester/4869
+#EXTINF:-1,UK | BT Sport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4861
+#EXTINF:-1,UK | BT Sport 1 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4865
+#EXTINF:-1,UK | BT Sport 1 SD (Sat)
+http://cloud9tech.ddns.net:25461/tester/tester/7134
+#EXTINF:-1,UK | BT Sport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4862
+#EXTINF:-1,UK | BT Sport 2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4866
+#EXTINF:-1,UK | BT Sport 2 SD (Sat)
+http://cloud9tech.ddns.net:25461/tester/tester/7135
+#EXTINF:-1,UK | BT Sport 3 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4863
+#EXTINF:-1,UK | BT Sport 3 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4867
+#EXTINF:-1,UK | BT Sport 3 SD (Sat)
+http://cloud9tech.ddns.net:25461/tester/tester/7136
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://cloud9tech.ddns.net:25461/tester/tester/4864
+#EXTINF:-1,UK | BT Sport ESPN SD
+http://cloud9tech.ddns.net:25461/tester/tester/4868
+#EXTINF:-1,UK | BT Sport ESPN SD (Sat)
+http://cloud9tech.ddns.net:25461/tester/tester/7137
+#EXTINF:-1,UK | Cartoon Network
+http://cloud9tech.ddns.net:25461/tester/tester/4825
+#EXTINF:-1,UK | Cartoon Network HD
+http://cloud9tech.ddns.net:25461/tester/tester/4833
+#EXTINF:-1,UK | Cartoonito
+http://cloud9tech.ddns.net:25461/tester/tester/4832
+#EXTINF:-1,UK | CBBC HD
+http://cloud9tech.ddns.net:25461/tester/tester/4820
+#EXTINF:-1,UK | Cbeebies HD
+http://cloud9tech.ddns.net:25461/tester/tester/4819
+#EXTINF:-1,UK | CBS Drama
+http://cloud9tech.ddns.net:25461/tester/tester/4717
+#EXTINF:-1,UK | CBS Justice
+http://cloud9tech.ddns.net:25461/tester/tester/4718
+#EXTINF:-1,UK | CBS Reality
+http://cloud9tech.ddns.net:25461/tester/tester/4715
+#EXTINF:-1,UK | CBS Reality +1
+http://cloud9tech.ddns.net:25461/tester/tester/4716
+#EXTINF:-1,UK | Challenge SD
+http://cloud9tech.ddns.net:25461/tester/tester/4710
+#EXTINF:-1,UK | Channel 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4674
+#EXTINF:-1,UK | Channel 4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4675
+#EXTINF:-1,UK | Channel 4 London
+http://cloud9tech.ddns.net:25461/tester/tester/6877
+#EXTINF:-1,UK | Channel 4 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4676
+#EXTINF:-1,UK | Channel 5 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4691
+#EXTINF:-1,UK | Channel 5 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4692
+#EXTINF:-1,UK | Channel 5 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4693
+#EXTINF:-1,UK | CITV
+http://cloud9tech.ddns.net:25461/tester/tester/4821
+#EXTINF:-1,UK | Clubland TV
+http://cloud9tech.ddns.net:25461/tester/tester/4818
+#EXTINF:-1,UK | Comedy Central HD
+http://cloud9tech.ddns.net:25461/tester/tester/4731
+#EXTINF:-1,UK | Comedy Central Extra
+http://cloud9tech.ddns.net:25461/tester/tester/4732
+#EXTINF:-1,UK | Crime & Investigation HD
+http://cloud9tech.ddns.net:25461/tester/tester/4761
+#EXTINF:-1,UK | Dave Ja Vu
+http://cloud9tech.ddns.net:25461/tester/tester/4709
+#EXTINF:-1,UK | Dave SD
+http://cloud9tech.ddns.net:25461/tester/tester/4708
+#EXTINF:-1,UK | Discovery HD
+http://cloud9tech.ddns.net:25461/tester/tester/4755
+#EXTINF:-1,UK | Discovery HD
+http://cloud9tech.ddns.net:25461/tester/tester/4762
+#EXTINF:-1,UK | Discovery SD
+http://cloud9tech.ddns.net:25461/tester/tester/4754
+#EXTINF:-1,UK | Discovery History
+http://cloud9tech.ddns.net:25461/tester/tester/4756
+#EXTINF:-1,UK | Discovery Science
+http://cloud9tech.ddns.net:25461/tester/tester/4759
+#EXTINF:-1,UK | Discovery Shed
+http://cloud9tech.ddns.net:25461/tester/tester/4758
+#EXTINF:-1,UK | Discovery Turbo
+http://cloud9tech.ddns.net:25461/tester/tester/4757
+#EXTINF:-1,UK | Disney Channel
+http://cloud9tech.ddns.net:25461/tester/tester/4837
+#EXTINF:-1,UK | Disney Junior
+http://cloud9tech.ddns.net:25461/tester/tester/4838
+#EXTINF:-1,UK | Disney XD
+http://cloud9tech.ddns.net:25461/tester/tester/4836
+#EXTINF:-1,UK | DMAX
+http://cloud9tech.ddns.net:25461/tester/tester/4753
+#EXTINF:-1,UK | Drama SD
+http://cloud9tech.ddns.net:25461/tester/tester/4704
+#EXTINF:-1,UK | E!
+http://cloud9tech.ddns.net:25461/tester/tester/4728
+#EXTINF:-1,UK | E4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/6060
+#EXTINF:-1,UK | E4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4686
+#EXTINF:-1,UK | E4 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4687
+#EXTINF:-1,UK | Eden HD
+http://cloud9tech.ddns.net:25461/tester/tester/4770
+#EXTINF:-1,UK | Eden SD
+http://cloud9tech.ddns.net:25461/tester/tester/4769
+#EXTINF:-1,UK | Euro News
+http://cloud9tech.ddns.net:25461/tester/tester/4844
+#EXTINF:-1,UK | Eurosport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4859
+#EXTINF:-1,UK | Eurosport 1 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4857
+#EXTINF:-1,UK | Eurosport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4860
+#EXTINF:-1,UK | Eurosport 2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4858
+#EXTINF:-1,UK | Film 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4793
+#EXTINF:-1,UK | Film 4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4794
+#EXTINF:-1,UK | Film 4 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4795
+#EXTINF:-1,UK | Food Network
+http://cloud9tech.ddns.net:25461/tester/tester/4734
+#EXTINF:-1,UK | Fox HD
+http://cloud9tech.ddns.net:25461/tester/tester/4752
+#EXTINF:-1,UK | Freesports HD
+http://cloud9tech.ddns.net:25461/tester/tester/4880
+#EXTINF:-1,UK | FreeSports SD
+http://cloud9tech.ddns.net:25461/tester/tester/4879
+#EXTINF:-1,UK | Gold HD
+http://cloud9tech.ddns.net:25461/tester/tester/4741
+#EXTINF:-1,UK | Gold SD
+http://cloud9tech.ddns.net:25461/tester/tester/4724
+#EXTINF:-1,UK | Gold +1
+http://cloud9tech.ddns.net:25461/tester/tester/4725
+#EXTINF:-1,UK | H2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4767
+#EXTINF:-1,UK | H2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4768
+#EXTINF:-1,UK | History HD
+http://cloud9tech.ddns.net:25461/tester/tester/4763
+#EXTINF:-1,UK | Home
+http://cloud9tech.ddns.net:25461/tester/tester/4726
+#EXTINF:-1,UK | Home & Health
+http://cloud9tech.ddns.net:25461/tester/tester/4727
+#EXTINF:-1,UK | Horror Channel
+http://cloud9tech.ddns.net:25461/tester/tester/4733
+#EXTINF:-1,UK | ID SD
+http://cloud9tech.ddns.net:25461/tester/tester/4723
+#EXTINF:-1,UK | ITV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4673
+#EXTINF:-1,UK | ITV SD
+http://cloud9tech.ddns.net:25461/tester/tester/6061
+#EXTINF:-1,UK | ITV Granada
+http://cloud9tech.ddns.net:25461/tester/tester/4856
+#EXTINF:-1,UK | ITV London
+http://cloud9tech.ddns.net:25461/tester/tester/4846
+#EXTINF:-1,UK | ITV Meridian East
+http://cloud9tech.ddns.net:25461/tester/tester/6808
+#EXTINF:-1,UK | ITV Wales
+http://cloud9tech.ddns.net:25461/tester/tester/6809
+#EXTINF:-1,UK | ITV +1
+http://cloud9tech.ddns.net:25461/tester/tester/4677
+#EXTINF:-1,UK | ITV 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4670
+#EXTINF:-1,UK | ITV 2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4678
+#EXTINF:-1,UK | ITV 2 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4679
+#EXTINF:-1,UK | ITV 3 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4671
+#EXTINF:-1,UK | ITV 3 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4680
+#EXTINF:-1,UK | ITV 3 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4681
+#EXTINF:-1,UK | ITV 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4672
+#EXTINF:-1,UK | ITV 4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4682
+#EXTINF:-1,UK | ITV 4 +1
+http://cloud9tech.ddns.net:25461/tester/tester/4683
+#EXTINF:-1,UK | ITV Be HD
+http://cloud9tech.ddns.net:25461/tester/tester/4743
+#EXTINF:-1,UK | ITV Be SD
+http://cloud9tech.ddns.net:25461/tester/tester/4684
+#EXTINF:-1,UK | Kerrang
+http://cloud9tech.ddns.net:25461/tester/tester/4816
+#EXTINF:-1,UK | LFC TV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4874
+#EXTINF:-1,UK | Lifetime HD
+http://cloud9tech.ddns.net:25461/tester/tester/4745
+#EXTINF:-1,UK | Love Nature HD
+http://cloud9tech.ddns.net:25461/tester/tester/6063
+#EXTINF:-1,UK | More 4 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4689
+#EXTINF:-1,UK | Movies 24
+http://cloud9tech.ddns.net:25461/tester/tester/5323
+#EXTINF:-1,UK | Movies 4 Men
+http://cloud9tech.ddns.net:25461/tester/tester/4796
+#EXTINF:-1,UK | Movies 4 Men +1
+http://cloud9tech.ddns.net:25461/tester/tester/4797
+#EXTINF:-1,UK | MTV
+http://cloud9tech.ddns.net:25461/tester/tester/4720
+#EXTINF:-1,UK | MTV Base
+http://cloud9tech.ddns.net:25461/tester/tester/4806
+#EXTINF:-1,UK | MTV Classic
+http://cloud9tech.ddns.net:25461/tester/tester/4808
+#EXTINF:-1,UK | MTV Club
+http://cloud9tech.ddns.net:25461/tester/tester/4807
+#EXTINF:-1,UK | MTV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4747
+#EXTINF:-1,UK | MTV Hits
+http://cloud9tech.ddns.net:25461/tester/tester/4809
+#EXTINF:-1,UK | MTV Music
+http://cloud9tech.ddns.net:25461/tester/tester/4805
+#EXTINF:-1,UK | MTV OMG
+http://cloud9tech.ddns.net:25461/tester/tester/4810
+#EXTINF:-1,UK | MTV Rocks
+http://cloud9tech.ddns.net:25461/tester/tester/4811
+#EXTINF:-1,UK | MUTV
+http://cloud9tech.ddns.net:25461/tester/tester/4873
+#EXTINF:-1,UK | National Geo Wild HD
+http://cloud9tech.ddns.net:25461/tester/tester/4766
+#EXTINF:-1,UK | National Geographic HD
+http://cloud9tech.ddns.net:25461/tester/tester/4765
+#EXTINF:-1,UK | Nick Jr
+http://cloud9tech.ddns.net:25461/tester/tester/4829
+#EXTINF:-1,UK | Nick Jr +1
+http://cloud9tech.ddns.net:25461/tester/tester/4830
+#EXTINF:-1,UK | Nick Jr Too
+http://cloud9tech.ddns.net:25461/tester/tester/4831
+#EXTINF:-1,UK | Nickelodeon
+http://cloud9tech.ddns.net:25461/tester/tester/4828
+#EXTINF:-1,UK | Nickelodeon HD
+http://cloud9tech.ddns.net:25461/tester/tester/4834
+#EXTINF:-1,UK | Nicktoons
+http://cloud9tech.ddns.net:25461/tester/tester/4827
+#EXTINF:-1,UK | Paramount HD
+http://cloud9tech.ddns.net:25461/tester/tester/4740
+#EXTINF:-1,UK | Paramount SD
+http://cloud9tech.ddns.net:25461/tester/tester/4700
+#EXTINF:-1,UK | Pick SD
+http://cloud9tech.ddns.net:25461/tester/tester/4707
+#EXTINF:-1,UK | POP
+http://cloud9tech.ddns.net:25461/tester/tester/4822
+#EXTINF:-1,UK | POP Max
+http://cloud9tech.ddns.net:25461/tester/tester/4823
+#EXTINF:-1,UK | Premier Sports 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4875
+#EXTINF:-1,UK | Premier Sports 1 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4877
+#EXTINF:-1,UK | Premier Sports 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4876
+#EXTINF:-1,UK | Premier Sports 2 SD
+http://cloud9tech.ddns.net:25461/tester/tester/4878
+#EXTINF:-1,UK | Quest
+http://cloud9tech.ddns.net:25461/tester/tester/4698
+#EXTINF:-1,UK | Quest HD
+http://cloud9tech.ddns.net:25461/tester/tester/4736
+#EXTINF:-1,UK | Quest Red
+http://cloud9tech.ddns.net:25461/tester/tester/4699
+#EXTINF:-1,UK | Racing TV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4871
+#EXTINF:-1,UK | Racing TV SD
+http://cloud9tech.ddns.net:25461/tester/tester/4872
+#EXTINF:-1,UK | Really SD
+http://cloud9tech.ddns.net:25461/tester/tester/4701
+#EXTINF:-1,UK | RedBull TV
+http://cloud9tech.ddns.net:25461/tester/tester/5366
+#EXTINF:-1,UK | S4C HD
+http://cloud9tech.ddns.net:25461/tester/tester/6062
+#EXTINF:-1,UK | Sky 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/4737
+#EXTINF:-1,UK | Sky 1 SD
+http://cloud9tech.ddns.net:25461/tester/tester/6065
+#EXTINF:-1,UK | Sky 2
+http://cloud9tech.ddns.net:25461/tester/tester/4738
+#EXTINF:-1,UK | Sky Arts HD
+http://cloud9tech.ddns.net:25461/tester/tester/4744
+#EXTINF:-1,UK | Sky Atlantic HD
+http://cloud9tech.ddns.net:25461/tester/tester/4749
+#EXTINF:-1,UK | Sky Comedy HD
+http://cloud9tech.ddns.net:25461/tester/tester/4746
+#EXTINF:-1,UK | Sky Comedy SD
+http://cloud9tech.ddns.net:25461/tester/tester/4721
+#EXTINF:-1,UK | Sky Crime HD
+http://cloud9tech.ddns.net:25461/tester/tester/6064
+#EXTINF:-1,UK | Sky Cinema Action HD
+http://cloud9tech.ddns.net:25461/tester/tester/4776
+#EXTINF:-1,UK | Sky Cinema Action SD
+http://cloud9tech.ddns.net:25461/tester/tester/4787
+#EXTINF:-1,UK | Sky Cinema Comedy HD
+http://cloud9tech.ddns.net:25461/tester/tester/4777
+#EXTINF:-1,UK | Sky Cinema Comedy SD
+http://cloud9tech.ddns.net:25461/tester/tester/4788
+#EXTINF:-1,UK | Sky Cinema Disney HD
+http://cloud9tech.ddns.net:25461/tester/tester/4774
+#EXTINF:-1,UK | Sky Cinema Disney SD
+http://cloud9tech.ddns.net:25461/tester/tester/4785
+#EXTINF:-1,UK | Sky Cinema Drama HD
+http://cloud9tech.ddns.net:25461/tester/tester/4779
+#EXTINF:-1,UK | Sky Cinema Drama SD
+http://cloud9tech.ddns.net:25461/tester/tester/4790
+#EXTINF:-1,UK | Sky Cinema Family HD
+http://cloud9tech.ddns.net:25461/tester/tester/4775
+#EXTINF:-1,UK | Sky Cinema Family SD
+http://cloud9tech.ddns.net:25461/tester/tester/4786
+#EXTINF:-1,UK | Sky Cinema Greats HD
+http://cloud9tech.ddns.net:25461/tester/tester/4773
+#EXTINF:-1,UK | Sky Cinema Greats SD
+http://cloud9tech.ddns.net:25461/tester/tester/4784
+#EXTINF:-1,UK | Sky Cinema Hits HD
+http://cloud9tech.ddns.net:25461/tester/tester/4772
+#EXTINF:-1,UK | Sky Cinema Hits SD
+http://cloud9tech.ddns.net:25461/tester/tester/4783
+#EXTINF:-1,UK | Sky Cinema Premiere HD
+http://cloud9tech.ddns.net:25461/tester/tester/4771
+#EXTINF:-1,UK | Sky Cinema Premiere SD
+http://cloud9tech.ddns.net:25461/tester/tester/4782
+#EXTINF:-1,UK | Sky Cinema Sci-fi HD
+http://cloud9tech.ddns.net:25461/tester/tester/4780
+#EXTINF:-1,UK | Sky Cinema Sci-fi SD
+http://cloud9tech.ddns.net:25461/tester/tester/4791
+#EXTINF:-1,UK | Sky Cinema Select HD
+http://cloud9tech.ddns.net:25461/tester/tester/4781
+#EXTINF:-1,UK | Sky Cinema Select SD
+http://cloud9tech.ddns.net:25461/tester/tester/4792
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://cloud9tech.ddns.net:25461/tester/tester/4778
+#EXTINF:-1,UK | Sky Cinema Thriller SD
+http://cloud9tech.ddns.net:25461/tester/tester/4789
+#EXTINF:-1,UK | Sky News HD
+http://cloud9tech.ddns.net:25461/tester/tester/4840
+#EXTINF:-1,UK | Sky News SD
+http://cloud9tech.ddns.net:25461/tester/tester/4839
+#EXTINF:-1,UK | Sky Witness HD
+http://cloud9tech.ddns.net:25461/tester/tester/4750
+#EXTINF:-1,UK | Sky Witness SD
+http://cloud9tech.ddns.net:25461/tester/tester/4751
+#EXTINF:-1,UK | Sony Crime
+http://cloud9tech.ddns.net:25461/tester/tester/4714
+#EXTINF:-1,UK | Sony Movies
+http://cloud9tech.ddns.net:25461/tester/tester/4800
+#EXTINF:-1,UK | Sony Movies +1
+http://cloud9tech.ddns.net:25461/tester/tester/4801
+#EXTINF:-1,UK | STV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4853
+#EXTINF:-1,UK | SYFY HD
+http://cloud9tech.ddns.net:25461/tester/tester/4722
+#EXTINF:-1,UK | TCM HD
+http://cloud9tech.ddns.net:25461/tester/tester/4802
+#EXTINF:-1,UK | TCM SD
+http://cloud9tech.ddns.net:25461/tester/tester/4803
+#EXTINF:-1,UK | Tiny Pop
+http://cloud9tech.ddns.net:25461/tester/tester/4824
+#EXTINF:-1,UK | TLC
+http://cloud9tech.ddns.net:25461/tester/tester/4719
+#EXTINF:-1,UK | TLC HD
+http://cloud9tech.ddns.net:25461/tester/tester/4742
+#EXTINF:-1,UK | Together
+http://cloud9tech.ddns.net:25461/tester/tester/4703
+#EXTINF:-1,UK | True Entertainment
+http://cloud9tech.ddns.net:25461/tester/tester/4712
+#EXTINF:-1,UK | True Entertainment +1
+http://cloud9tech.ddns.net:25461/tester/tester/4713
+#EXTINF:-1,UK | True Movies
+http://cloud9tech.ddns.net:25461/tester/tester/4798
+#EXTINF:-1,UK | True Movies +1
+http://cloud9tech.ddns.net:25461/tester/tester/4799
+#EXTINF:-1,UK | UTV HD
+http://cloud9tech.ddns.net:25461/tester/tester/4854
+#EXTINF:-1,UK | UTV + 1
+http://cloud9tech.ddns.net:25461/tester/tester/6887
+#EXTINF:-1,UK | VH1
+http://cloud9tech.ddns.net:25461/tester/tester/4748
+#EXTINF:-1,UK | Watch +1
+http://cloud9tech.ddns.net:25461/tester/tester/4706
+#EXTINF:-1,UK | Watch SD
+http://cloud9tech.ddns.net:25461/tester/tester/4705
+#EXTINF:-1,UK | Yesterday SD
+http://cloud9tech.ddns.net:25461/tester/tester/4702
+#EXTINF:-1,USA | A&E
+http://cloud9tech.ddns.net:25461/tester/tester/5350
+#EXTINF:-1,USA | ABC LA
+http://cloud9tech.ddns.net:25461/tester/tester/4919
+#EXTINF:-1,USA | ABC NYC
+http://cloud9tech.ddns.net:25461/tester/tester/4921
+#EXTINF:-1,USA | ABC Washington
+http://cloud9tech.ddns.net:25461/tester/tester/4922
+#EXTINF:-1,USA | ACC ESPN
+http://cloud9tech.ddns.net:25461/tester/tester/5009
+#EXTINF:-1,USA | AMC
+http://cloud9tech.ddns.net:25461/tester/tester/4923
+#EXTINF:-1,USA | Animal Planet East
+http://cloud9tech.ddns.net:25461/tester/tester/4989
+#EXTINF:-1,USA | BBC America
+http://cloud9tech.ddns.net:25461/tester/tester/4924
+#EXTINF:-1,USA | BBC World News
+http://cloud9tech.ddns.net:25461/tester/tester/4925
+#EXTINF:-1,USA | beIN Sports
+http://cloud9tech.ddns.net:25461/tester/tester/5045
+#EXTINF:-1,USA | Boomerang
+http://cloud9tech.ddns.net:25461/tester/tester/4926
+#EXTINF:-1,USA | Bravo East
+http://cloud9tech.ddns.net:25461/tester/tester/4927
+#EXTINF:-1,USA | BTN
+http://cloud9tech.ddns.net:25461/tester/tester/5025
+#EXTINF:-1,USA | Cartoon Network East
+http://cloud9tech.ddns.net:25461/tester/tester/4934
+#EXTINF:-1,USA | CBS LA
+http://cloud9tech.ddns.net:25461/tester/tester/4928
+#EXTINF:-1,USA | CBS NYC
+http://cloud9tech.ddns.net:25461/tester/tester/4929
+#EXTINF:-1,USA | CBS Washington
+http://cloud9tech.ddns.net:25461/tester/tester/4930
+#EXTINF:-1,USA | Cinemax East
+http://cloud9tech.ddns.net:25461/tester/tester/4935
+#EXTINF:-1,USA | CNBC
+http://cloud9tech.ddns.net:25461/tester/tester/4931
+#EXTINF:-1,USA | CNBC World
+http://cloud9tech.ddns.net:25461/tester/tester/4932
+#EXTINF:-1,USA | CNN
+http://cloud9tech.ddns.net:25461/tester/tester/4933
+#EXTINF:-1,USA | Cooking Channel
+http://cloud9tech.ddns.net:25461/tester/tester/4936
+#EXTINF:-1,USA | Destination America
+http://cloud9tech.ddns.net:25461/tester/tester/4939
+#EXTINF:-1,USA | Discovery Channel
+http://cloud9tech.ddns.net:25461/tester/tester/4940
+#EXTINF:-1,USA | Discovery Family
+http://cloud9tech.ddns.net:25461/tester/tester/4941
+#EXTINF:-1,USA | Discovery Science
+http://cloud9tech.ddns.net:25461/tester/tester/4943
+#EXTINF:-1,USA | Disney Channel East
+http://cloud9tech.ddns.net:25461/tester/tester/4990
+#EXTINF:-1,USA | Disney Jr East
+http://cloud9tech.ddns.net:25461/tester/tester/4991
+#EXTINF:-1,USA | Disney XD East
+http://cloud9tech.ddns.net:25461/tester/tester/4992
+#EXTINF:-1,USA | DIY Network
+http://cloud9tech.ddns.net:25461/tester/tester/4937
+#EXTINF:-1,USA | E!
+http://cloud9tech.ddns.net:25461/tester/tester/4944
+#EXTINF:-1,USA | Eleven Sports
+http://cloud9tech.ddns.net:25461/tester/tester/5010
+#EXTINF:-1,USA | EPIX
+http://cloud9tech.ddns.net:25461/tester/tester/4945
+#EXTINF:-1,USA | ESPN
+http://cloud9tech.ddns.net:25461/tester/tester/5011
+#EXTINF:-1,USA | ESPN 2
+http://cloud9tech.ddns.net:25461/tester/tester/5012
+#EXTINF:-1,USA | ESPN Deportes
+http://cloud9tech.ddns.net:25461/tester/tester/5021
+#EXTINF:-1,USA | ESPN News
+http://cloud9tech.ddns.net:25461/tester/tester/5023
+#EXTINF:-1,USA | ESPN U
+http://cloud9tech.ddns.net:25461/tester/tester/5024
+#EXTINF:-1,USA | Food Network East
+http://cloud9tech.ddns.net:25461/tester/tester/4952
+#EXTINF:-1,USA | Fox Buisness
+http://cloud9tech.ddns.net:25461/tester/tester/4953
+#EXTINF:-1,USA | Fox Deportes
+http://cloud9tech.ddns.net:25461/tester/tester/5029
+#EXTINF:-1,USA | Fox Los Angeles
+http://cloud9tech.ddns.net:25461/tester/tester/4946
+#EXTINF:-1,USA | Fox News
+http://cloud9tech.ddns.net:25461/tester/tester/4956
+#EXTINF:-1,USA | Fox NYC
+http://cloud9tech.ddns.net:25461/tester/tester/4951
+#EXTINF:-1,USA | Fox Soccer Plus
+http://cloud9tech.ddns.net:25461/tester/tester/4993
+#EXTINF:-1,USA | Fox Sports 1
+http://cloud9tech.ddns.net:25461/tester/tester/4994
+#EXTINF:-1,USA | Fox Sports 2
+http://cloud9tech.ddns.net:25461/tester/tester/4995
+#EXTINF:-1,USA | Fox Sports Arizona
+http://cloud9tech.ddns.net:25461/tester/tester/4996
+#EXTINF:-1,USA | Fox Sports Florida
+http://cloud9tech.ddns.net:25461/tester/tester/4998
+#EXTINF:-1,USA | Fox Sports North
+http://cloud9tech.ddns.net:25461/tester/tester/5000
+#EXTINF:-1,USA | Fox Sports Ohio
+http://cloud9tech.ddns.net:25461/tester/tester/5001
+#EXTINF:-1,USA | Fox Sports Prime Ticket
+http://cloud9tech.ddns.net:25461/tester/tester/5002
+#EXTINF:-1,USA | Fox Sports South
+http://cloud9tech.ddns.net:25461/tester/tester/5004
+#EXTINF:-1,USA | Fox Sports South East
+http://cloud9tech.ddns.net:25461/tester/tester/5005
+#EXTINF:-1,USA | Fox Sports South West
+http://cloud9tech.ddns.net:25461/tester/tester/5006
+#EXTINF:-1,USA | Fox Sports West
+http://cloud9tech.ddns.net:25461/tester/tester/5007
+#EXTINF:-1,USA | Fox Washington
+http://cloud9tech.ddns.net:25461/tester/tester/4948
+#EXTINF:-1,USA | FX East
+http://cloud9tech.ddns.net:25461/tester/tester/4954
+#EXTINF:-1,USA | FXM
+http://cloud9tech.ddns.net:25461/tester/tester/4955
+#EXTINF:-1,USA | FXX East
+http://cloud9tech.ddns.net:25461/tester/tester/4957
+#EXTINF:-1,USA | Hallmark Channel
+http://cloud9tech.ddns.net:25461/tester/tester/4959
+#EXTINF:-1,USA | Hallmark Drama
+http://cloud9tech.ddns.net:25461/tester/tester/4960
+#EXTINF:-1,USA | Hallmark Movies and Mysteries
+http://cloud9tech.ddns.net:25461/tester/tester/4961
+#EXTINF:-1,USA | HBO East
+http://cloud9tech.ddns.net:25461/tester/tester/4962
+#EXTINF:-1,USA | HLN
+http://cloud9tech.ddns.net:25461/tester/tester/7133
+#EXTINF:-1,USA | HGTV East
+http://cloud9tech.ddns.net:25461/tester/tester/4958
+#EXTINF:-1,USA | IFC
+http://cloud9tech.ddns.net:25461/tester/tester/4963
+#EXTINF:-1,USA | Investigation Discovery East
+http://cloud9tech.ddns.net:25461/tester/tester/4964
+#EXTINF:-1,USA | MLB Network Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5031
+#EXTINF:-1,USA | MSG 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5063
+#EXTINF:-1,USA | MSG HD
+http://cloud9tech.ddns.net:25461/tester/tester/5062
+#EXTINF:-1,USA | MSG+ HD
+http://cloud9tech.ddns.net:25461/tester/tester/5064
+#EXTINF:-1,USA | MSNBC
+http://cloud9tech.ddns.net:25461/tester/tester/4965
+#EXTINF:-1,USA | Nat Geo East
+http://cloud9tech.ddns.net:25461/tester/tester/4970
+#EXTINF:-1,USA | Nat Geo Wild
+http://cloud9tech.ddns.net:25461/tester/tester/4971
+#EXTINF:-1,USA | NBA TV
+http://cloud9tech.ddns.net:25461/tester/tester/5047
+#EXTINF:-1,USA | NBC Golf
+http://cloud9tech.ddns.net:25461/tester/tester/5048
+#EXTINF:-1,USA | NBC Golf Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5049
+#EXTINF:-1,USA | NBC Los Angeles
+http://cloud9tech.ddns.net:25461/tester/tester/4966
+#EXTINF:-1,USA | NBC NYC
+http://cloud9tech.ddns.net:25461/tester/tester/4968
+#EXTINF:-1,USA | NBC Sports Chicago
+http://cloud9tech.ddns.net:25461/tester/tester/5034
+#EXTINF:-1,USA | NBC Sports Network
+http://cloud9tech.ddns.net:25461/tester/tester/5036
+#EXTINF:-1,USA | NBC Sports Network Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5040
+#EXTINF:-1,USA | NBC Washington
+http://cloud9tech.ddns.net:25461/tester/tester/4969
+#EXTINF:-1,USA | News 12 New Jersey
+http://cloud9tech.ddns.net:25461/tester/tester/6885
+#EXTINF:-1,USA | NFL Network
+http://cloud9tech.ddns.net:25461/tester/tester/5050
+#EXTINF:-1,USA | NHL Network
+http://cloud9tech.ddns.net:25461/tester/tester/5051
+#EXTINF:-1,USA | OWN
+http://cloud9tech.ddns.net:25461/tester/tester/4972
+#EXTINF:-1,USA | Oxygen East
+http://cloud9tech.ddns.net:25461/tester/tester/4973
+#EXTINF:-1,USA | SEC ESPN
+http://cloud9tech.ddns.net:25461/tester/tester/5053
+#EXTINF:-1,USA | Showtime East
+http://cloud9tech.ddns.net:25461/tester/tester/4975
+#EXTINF:-1,USA | SNY
+http://cloud9tech.ddns.net:25461/tester/tester/5052
+#EXTINF:-1,USA | Stadium HD
+http://cloud9tech.ddns.net:25461/tester/tester/5041
+#EXTINF:-1,USA | Starz East
+http://cloud9tech.ddns.net:25461/tester/tester/4977
+#EXTINF:-1,USA | Starz Encore East
+http://cloud9tech.ddns.net:25461/tester/tester/4978
+#EXTINF:-1,USA | Sundance
+http://cloud9tech.ddns.net:25461/tester/tester/4974
+#EXTINF:-1,USA | Syfy East
+http://cloud9tech.ddns.net:25461/tester/tester/4979
+#EXTINF:-1,USA | TBS East
+http://cloud9tech.ddns.net:25461/tester/tester/4980
+#EXTINF:-1,USA | Tennis Channel
+http://cloud9tech.ddns.net:25461/tester/tester/5054
+#EXTINF:-1,USA | TLC East
+http://cloud9tech.ddns.net:25461/tester/tester/4981
+#EXTINF:-1,USA | TNT East
+http://cloud9tech.ddns.net:25461/tester/tester/4982
+#EXTINF:-1,USA | Travel Channel East
+http://cloud9tech.ddns.net:25461/tester/tester/4983
+#EXTINF:-1,USA | TruTv East
+http://cloud9tech.ddns.net:25461/tester/tester/4984
+#EXTINF:-1,USA | Turner Classic Movies
+http://cloud9tech.ddns.net:25461/tester/tester/4985
+#EXTINF:-1,USA | Universal Kids
+http://cloud9tech.ddns.net:25461/tester/tester/4986
+#EXTINF:-1,USA | USA Network East
+http://cloud9tech.ddns.net:25461/tester/tester/4987
+#EXTINF:-1,USA | WE TV
+http://cloud9tech.ddns.net:25461/tester/tester/4988
+#EXTINF:-1,USA | YES Network
+http://cloud9tech.ddns.net:25461/tester/tester/5055
+#EXTINF:-1,USA | YES Network Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5056
+#EXTINF:-1,AUS | Racing.com
+http://cloud9tech.ddns.net:25461/tester/tester/5097
+#EXTINF:-1,AUS | Fox Sports News
+http://cloud9tech.ddns.net:25461/tester/tester/5098
+#EXTINF:-1,AUS | Fox Sports 507
+http://cloud9tech.ddns.net:25461/tester/tester/5099
+#EXTINF:-1,AUS | Fox Sports 506
+http://cloud9tech.ddns.net:25461/tester/tester/5100
+#EXTINF:-1,AUS | Fox Sports 505
+http://cloud9tech.ddns.net:25461/tester/tester/5101
+#EXTINF:-1,AUS | Fox Sports 504 / League
+http://cloud9tech.ddns.net:25461/tester/tester/5102
+#EXTINF:-1,AUS | Fox Sports 503
+http://cloud9tech.ddns.net:25461/tester/tester/5103
+#EXTINF:-1,AUS | Fox Sports 502 / Footy
+http://cloud9tech.ddns.net:25461/tester/tester/5104
+#EXTINF:-1,AUS | Fox Sports 501
+http://cloud9tech.ddns.net:25461/tester/tester/5105
+#EXTINF:-1,AUS | ESPN
+http://cloud9tech.ddns.net:25461/tester/tester/5106
+#EXTINF:-1,AUS | ESPN 2
+http://cloud9tech.ddns.net:25461/tester/tester/5107
+#EXTINF:-1,AUS | beIN Sports 3
+http://cloud9tech.ddns.net:25461/tester/tester/5108
+#EXTINF:-1,AUS | beIN Sports 2
+http://cloud9tech.ddns.net:25461/tester/tester/5109
+#EXTINF:-1,AUS | beIN Sports 1
+http://cloud9tech.ddns.net:25461/tester/tester/5110
+#EXTINF:-1,USA | MLB Gamepass Guide
+http://cloud9tech.ddns.net:25461/tester/tester/5162
+#EXTINF:-1,USA | MLB Gamepass 1
+http://cloud9tech.ddns.net:25461/tester/tester/5163
+#EXTINF:-1,USA | MLB Gamepass 2
+http://cloud9tech.ddns.net:25461/tester/tester/5164
+#EXTINF:-1,USA | MLB Gamepass 3
+http://cloud9tech.ddns.net:25461/tester/tester/5165
+#EXTINF:-1,USA | MLB Gamepass 4
+http://cloud9tech.ddns.net:25461/tester/tester/5166
+#EXTINF:-1,USA | MLB Gamepass 5
+http://cloud9tech.ddns.net:25461/tester/tester/5167
+#EXTINF:-1,USA | MLB Gamepass 6
+http://cloud9tech.ddns.net:25461/tester/tester/5168
+#EXTINF:-1,USA | MLB Gamepass 7
+http://cloud9tech.ddns.net:25461/tester/tester/5169
+#EXTINF:-1,USA | MLB Gamepass 8
+http://cloud9tech.ddns.net:25461/tester/tester/5170
+#EXTINF:-1,USA | MLB Gamepass 9
+http://cloud9tech.ddns.net:25461/tester/tester/5171
+#EXTINF:-1,USA | MLB Gamepass 10
+http://cloud9tech.ddns.net:25461/tester/tester/5172
+#EXTINF:-1,USA | MLB Gamepass 11
+http://cloud9tech.ddns.net:25461/tester/tester/5173
+#EXTINF:-1,USA | MLB Gamepass 12
+http://cloud9tech.ddns.net:25461/tester/tester/5174
+#EXTINF:-1,USA | MLB Gamepass 13
+http://cloud9tech.ddns.net:25461/tester/tester/5175
+#EXTINF:-1,USA | MLB Gamepass 14
+http://cloud9tech.ddns.net:25461/tester/tester/5176
+#EXTINF:-1,USA | MLB Gamepass 15
+http://cloud9tech.ddns.net:25461/tester/tester/5177
+#EXTINF:-1,USA | NHL Program Guide
+http://cloud9tech.ddns.net:25461/tester/tester/5178
+#EXTINF:-1,USA | NHL Gamepass 1
+http://cloud9tech.ddns.net:25461/tester/tester/5179
+#EXTINF:-1,USA | NHL Gamepass 2
+http://cloud9tech.ddns.net:25461/tester/tester/5180
+#EXTINF:-1,USA | NHL Gamepass 3
+http://cloud9tech.ddns.net:25461/tester/tester/5181
+#EXTINF:-1,USA | NHL Gamepass 4
+http://cloud9tech.ddns.net:25461/tester/tester/5182
+#EXTINF:-1,USA | NHL Gamepass 5
+http://cloud9tech.ddns.net:25461/tester/tester/5183
+#EXTINF:-1,USA | NHL Gamepass 6
+http://cloud9tech.ddns.net:25461/tester/tester/5184
+#EXTINF:-1,USA | NHL Gamepass 7
+http://cloud9tech.ddns.net:25461/tester/tester/5185
+#EXTINF:-1,USA | NHL Gamepass 8
+http://cloud9tech.ddns.net:25461/tester/tester/5186
+#EXTINF:-1,USA | NHL Gamepass 9
+http://cloud9tech.ddns.net:25461/tester/tester/5187
+#EXTINF:-1,USA | NHL Gamepass 10
+http://cloud9tech.ddns.net:25461/tester/tester/5188
+#EXTINF:-1,USA | NHL Gamepass 11
+http://cloud9tech.ddns.net:25461/tester/tester/5189
+#EXTINF:-1,USA | NHL Gamepass 12
+http://cloud9tech.ddns.net:25461/tester/tester/5190
+#EXTINF:-1,USA | NHL Gamepass 13
+http://cloud9tech.ddns.net:25461/tester/tester/5191
+#EXTINF:-1,USA | NHL Gamepass 14
+http://cloud9tech.ddns.net:25461/tester/tester/5192
+#EXTINF:-1,USA | NHL Gamepass 15
+http://cloud9tech.ddns.net:25461/tester/tester/5193
+#EXTINF:-1,USA | NFL Gamepass Guide
+http://cloud9tech.ddns.net:25461/tester/tester/5194
+#EXTINF:-1,***NFL Back Up Channels Below Gamepass***
+http://cloud9tech.ddns.net:25461/tester/tester/5302
+#EXTINF:-1,USA | NFL Red Zone
+http://cloud9tech.ddns.net:25461/tester/tester/5300
+#EXTINF:-1,USA | NFL Red Zone Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5948
+#EXTINF:-1,USA | NFL Gamepass 1
+http://cloud9tech.ddns.net:25461/tester/tester/5195
+#EXTINF:-1,USA | NFL Gamepass 1 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5932
+#EXTINF:-1,USA | NFL Gamepass 2
+http://cloud9tech.ddns.net:25461/tester/tester/5196
+#EXTINF:-1,USA | NFL Gamepass 2 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5933
+#EXTINF:-1,USA | NFL Gamepass 3
+http://cloud9tech.ddns.net:25461/tester/tester/5197
+#EXTINF:-1,USA | NFL Gamepass 3 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5940
+#EXTINF:-1,USA | NFL Gamepass 4
+http://cloud9tech.ddns.net:25461/tester/tester/5198
+#EXTINF:-1,USA | NFL Gamepass 4 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5939
+#EXTINF:-1,USA | NFL Gamepass 5
+http://cloud9tech.ddns.net:25461/tester/tester/5199
+#EXTINF:-1,USA | NFL Gamepass 5 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5938
+#EXTINF:-1,USA | NFL Gamepass 6
+http://cloud9tech.ddns.net:25461/tester/tester/5200
+#EXTINF:-1,USA | NFL Gamepass 6 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5937
+#EXTINF:-1,USA | NFL Gamepass 7
+http://cloud9tech.ddns.net:25461/tester/tester/5201
+#EXTINF:-1,USA | NFL Gamepass 7 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5936
+#EXTINF:-1,USA | NFL Gamepass 8
+http://cloud9tech.ddns.net:25461/tester/tester/5202
+#EXTINF:-1,USA | NFL Gamepass 8 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5935
+#EXTINF:-1,USA | NFL Gamepass 9
+http://cloud9tech.ddns.net:25461/tester/tester/5203
+#EXTINF:-1,USA | NFL Gamepass 9 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5934
+#EXTINF:-1,USA | NFL Gamepass 10
+http://cloud9tech.ddns.net:25461/tester/tester/5204
+#EXTINF:-1,USA | NFL Gamepass 10 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5947
+#EXTINF:-1,USA | NFL Gamepass 11
+http://cloud9tech.ddns.net:25461/tester/tester/5205
+#EXTINF:-1,USA | NFL Gamepass 11 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5946
+#EXTINF:-1,USA | NFL Gamepass 12
+http://cloud9tech.ddns.net:25461/tester/tester/5206
+#EXTINF:-1,USA | NFL Gamepass 12 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5945
+#EXTINF:-1,USA | NFL Gamepass 13
+http://cloud9tech.ddns.net:25461/tester/tester/5207
+#EXTINF:-1,USA | NFL Gamepass 13 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5944
+#EXTINF:-1,USA | NFL Gamepass 14
+http://cloud9tech.ddns.net:25461/tester/tester/5208
+#EXTINF:-1,USA | NFL Gamepass 14 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5943
+#EXTINF:-1,USA | NFL Gamepass 15
+http://cloud9tech.ddns.net:25461/tester/tester/5209
+#EXTINF:-1,USA | NFL Gamepass 15 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5942
+#EXTINF:-1,USA | NFL Gamepass 16
+http://cloud9tech.ddns.net:25461/tester/tester/5210
+#EXTINF:-1,USA | NFL Gamepass 16 Backup
+http://cloud9tech.ddns.net:25461/tester/tester/5941
+#EXTINF:-1,USA | NBA Gamepass 1
+http://cloud9tech.ddns.net:25461/tester/tester/5211
+#EXTINF:-1,USA | NBA Gamepass 2
+http://cloud9tech.ddns.net:25461/tester/tester/5212
+#EXTINF:-1,USA | NBA Gamepass 3
+http://cloud9tech.ddns.net:25461/tester/tester/5213
+#EXTINF:-1,USA | NBA Gamepass 4
+http://cloud9tech.ddns.net:25461/tester/tester/5214
+#EXTINF:-1,USA | NBA Gamepass 5
+http://cloud9tech.ddns.net:25461/tester/tester/5215
+#EXTINF:-1,USA | NBA Gamepass 6
+http://cloud9tech.ddns.net:25461/tester/tester/5216
+#EXTINF:-1,USA | NBA Gamepass 7
+http://cloud9tech.ddns.net:25461/tester/tester/5217
+#EXTINF:-1,USA | NBA Gamepass 8
+http://cloud9tech.ddns.net:25461/tester/tester/5218
+#EXTINF:-1,USA | NBA Gamepass 9
+http://cloud9tech.ddns.net:25461/tester/tester/5219
+#EXTINF:-1,USA | NBA Gamepass 10
+http://cloud9tech.ddns.net:25461/tester/tester/5220
+#EXTINF:-1,USA | NBA Gamepass 11
+http://cloud9tech.ddns.net:25461/tester/tester/5221
+#EXTINF:-1,USA | NBA Gamepass 12
+http://cloud9tech.ddns.net:25461/tester/tester/5222
+#EXTINF:-1,AR | beIN Sport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5224
+#EXTINF:-1,AR | beIN Sport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5225
+#EXTINF:-1,AR | beIN Sport 3 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5226
+#EXTINF:-1,AR | beIN Sport 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5227
+#EXTINF:-1,AR | beIN Sport 5 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5228
+#EXTINF:-1,AR | beIN Sport 6 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5229
+#EXTINF:-1,AR | beIN Sport 7 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5230
+#EXTINF:-1,AR | beIN Sport 8 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5231
+#EXTINF:-1,AR | beIN Sport 9 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5232
+#EXTINF:-1,AR | beIN Sport 11 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5234
+#EXTINF:-1,AR | beIN Sport 12 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5235
+#EXTINF:-1,AR | beIN Sport 13 HD
+http://cloud9tech.ddns.net:25461/tester/tester/6268
+#EXTINF:-1,USA | beIN Sports HD
+http://cloud9tech.ddns.net:25461/tester/tester/5236
+#EXTINF:-1,USA | beIN Sports La Liga HD
+http://cloud9tech.ddns.net:25461/tester/tester/5237
+#EXTINF:-1,USA | beIN Sports Espanyol HD
+http://cloud9tech.ddns.net:25461/tester/tester/5238
+#EXTINF:-1,ZA | SuperSport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5243
+#EXTINF:-1,ZA | SuperSport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5244
+#EXTINF:-1,ZA | SuperSport 3 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5245
+#EXTINF:-1,ZA | SuperSport 4 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5246
+#EXTINF:-1,ZA | SuperSport 5 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5247
+#EXTINF:-1,ZA | SuperSport 6 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5248
+#EXTINF:-1,ZA | SuperSport 7 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5249
+#EXTINF:-1,ZA | SuperSport 8 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5250
+#EXTINF:-1,ZA | SuperSport 9 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5251
+#EXTINF:-1,ZA | SuperSport 10 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5252
+#EXTINF:-1,ZA | SuperSport 12 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5253
+#EXTINF:-1,ZA | SuperSport 11 HD
+http://cloud9tech.ddns.net:25461/tester/tester/5254
+#EXTINF:-1,ZA | SuperSport Blitz HD
+http://cloud9tech.ddns.net:25461/tester/tester/5255
+#EXTINF:-1,USA | WWE Network
+http://cloud9tech.ddns.net:25461/tester/tester/5301
+#EXTINF:-1,CA | beIN Sports
+http://cloud9tech.ddns.net:25461/tester/tester/5410
+#EXTINF:-1,CA | NFL Network
+http://cloud9tech.ddns.net:25461/tester/tester/5411
+#EXTINF:-1,CA | NBA TV
+http://cloud9tech.ddns.net:25461/tester/tester/5412
+#EXTINF:-1,CA | MLB Network
+http://cloud9tech.ddns.net:25461/tester/tester/5413
+#EXTINF:-1,CA | Golf Channel
+http://cloud9tech.ddns.net:25461/tester/tester/5414
+#EXTINF:-1,CA | TSN 1
+http://cloud9tech.ddns.net:25461/tester/tester/5417
+#EXTINF:-1,CA | TSN 2
+http://cloud9tech.ddns.net:25461/tester/tester/5418
+#EXTINF:-1,CA | TSN 3
+http://cloud9tech.ddns.net:25461/tester/tester/5419
+#EXTINF:-1,CA | TSN 4
+http://cloud9tech.ddns.net:25461/tester/tester/5420
+#EXTINF:-1,CA | TSN 5
+http://cloud9tech.ddns.net:25461/tester/tester/5421
+#EXTINF:-1,CA | Sportsnet West
+http://cloud9tech.ddns.net:25461/tester/tester/5422
+#EXTINF:-1,CA | Sportsnet Pacific
+http://cloud9tech.ddns.net:25461/tester/tester/5423
+#EXTINF:-1,CA | Sportsnet Ontario
+http://cloud9tech.ddns.net:25461/tester/tester/5424
+#EXTINF:-1,CA | Sportsnet One
+http://cloud9tech.ddns.net:25461/tester/tester/5425
+#EXTINF:-1,CA | Sportsnet East
+http://cloud9tech.ddns.net:25461/tester/tester/5426
+#EXTINF:-1,CA | Sportsnet 360
+http://cloud9tech.ddns.net:25461/tester/tester/5427
+#EXTINF:-1,CA | TVA Sports
+http://cloud9tech.ddns.net:25461/tester/tester/5429
+#EXTINF:-1,USA | Willow Cricket 
+http://cloud9tech.ddns.net:25461/tester/tester/5600
+#EXTINF:-1,USA | Teen Nick
+http://cloud9tech.ddns.net:25461/tester/tester/5601
+#EXTINF:-1,USA | Nicktoons
+http://cloud9tech.ddns.net:25461/tester/tester/5602
+#EXTINF:-1,USA | Nickelodeon
+http://cloud9tech.ddns.net:25461/tester/tester/5603
+#EXTINF:-1,UK | Rugby Pass 10
+http://cloud9tech.ddns.net:25461/tester/tester/5621
+#EXTINF:-1,UK | Rugby Pass 9
+http://cloud9tech.ddns.net:25461/tester/tester/5622
+#EXTINF:-1,UK | Rugby Pass 8
+http://cloud9tech.ddns.net:25461/tester/tester/5623
+#EXTINF:-1,UK | Rugby Pass 7
+http://cloud9tech.ddns.net:25461/tester/tester/5624
+#EXTINF:-1,UK | Rugby Pass 6
+http://cloud9tech.ddns.net:25461/tester/tester/5625
+#EXTINF:-1,UK | Rugby Pass 5
+http://cloud9tech.ddns.net:25461/tester/tester/5626
+#EXTINF:-1,UK | Rugby Pass 4
+http://cloud9tech.ddns.net:25461/tester/tester/5627
+#EXTINF:-1,UK | Rugby Pass 3
+http://cloud9tech.ddns.net:25461/tester/tester/5628
+#EXTINF:-1,UK | Rugby Pass 2
+http://cloud9tech.ddns.net:25461/tester/tester/5629
+#EXTINF:-1,UK | Rugby Pass 1
+http://cloud9tech.ddns.net:25461/tester/tester/5630
+#EXTINF:-1,FR | beIN Sport 1 HD
+http://cloud9tech.ddns.net:25461/tester/tester/6269
+#EXTINF:-1,FR | beIN Sport 2 HD
+http://cloud9tech.ddns.net:25461/tester/tester/6270
+#EXTINF:-1,FR | beIN Sport 3 HD
+http://cloud9tech.ddns.net:25461/tester/tester/6271
+#EXTINF:-1,FR | beIN Sport Max 4
+http://cloud9tech.ddns.net:25461/tester/tester/6272
+#EXTINF:-1,FR | beIN Sport Max 5
+http://cloud9tech.ddns.net:25461/tester/tester/6273
+#EXTINF:-1,FR | beIN Sport Max 6
+http://cloud9tech.ddns.net:25461/tester/tester/6274
+#EXTINF:-1,FR | beIN Sport Max 7
+http://cloud9tech.ddns.net:25461/tester/tester/6275
+#EXTINF:-1,FR | beIN Sport Max 8
+http://cloud9tech.ddns.net:25461/tester/tester/6276
+#EXTINF:-1,FR | beIN Sport Max 9
+http://cloud9tech.ddns.net:25461/tester/tester/6277
+#EXTINF:-1,USA | MLB Network
+http://cloud9tech.ddns.net:25461/tester/tester/5030
+#EXTINF:-1,USA | NBA Gamepass Guide
+http://cloud9tech.ddns.net:25461/tester/tester/7092
+#EXTINF:-1,EPL | NBC Gold Goal Rush
+http://cloud9tech.ddns.net:25461/tester/tester/5495
+#EXTINF:-1,EPL | NBC Gold 1: Leicester City vs Chelsea
+http://cloud9tech.ddns.net:25461/tester/tester/5085
+#EXTINF:-1,EPL | NBC Gold 2:  AFC Bournemouth vs Aston Villa
+http://cloud9tech.ddns.net:25461/tester/tester/5086
+#EXTINF:-1,EPL | NBC Gold 3: Crystal Palace vs Sheffield United
+http://cloud9tech.ddns.net:25461/tester/tester/5087
+#EXTINF:-1,EPL | NBC Gold 4: Liverpool vs Southampton
+http://cloud9tech.ddns.net:25461/tester/tester/5088
+#EXTINF:-1,EPL | NBC Gold 5: Newcastle United vs Norwich City
+http://cloud9tech.ddns.net:25461/tester/tester/5089
+#EXTINF:-1,EPL | NBC Gold 6: Watford vs Everton
+http://cloud9tech.ddns.net:25461/tester/tester/5090
+#EXTINF:-1,EPL | NBC Gold 7: West Ham United vs Brighton & Hove Albion
+http://cloud9tech.ddns.net:25461/tester/tester/5091
+#EXTINF:-1,EPL | NBC Gold 8: Manchester United vs Wolverhampton Wanderers
+http://cloud9tech.ddns.net:25461/tester/tester/5092
+#EXTINF:-1,EPL | NBC Gold 9: Burnley vs Arsenal
+http://cloud9tech.ddns.net:25461/tester/tester/5093
+#EXTINF:-1,EPL | NBC Gold 10: Tottenham Hotspur vs Manchester City
+http://cloud9tech.ddns.net:25461/tester/tester/5094
+#EXTINF:-1,EPL | Rush Sports 1: Leicester City vs Chelsea
+http://cloud9tech.ddns.net:25461/tester/tester/5084
+#EXTINF:-1,EPL | Rush Sports 2: AFC Bournemouth vs Aston Villa
+http://cloud9tech.ddns.net:25461/tester/tester/5083
+#EXTINF:-1,EPL | Rush Sports 3: Crystal Palace vs Sheffield United
+http://cloud9tech.ddns.net:25461/tester/tester/5082
+#EXTINF:-1,EPL | Rush Sports 4: Liverpool vs Southampton
+http://cloud9tech.ddns.net:25461/tester/tester/5081
+#EXTINF:-1,EPL | Rush Sports 5: Newcastle United vs Norwich City
+http://cloud9tech.ddns.net:25461/tester/tester/5080
+#EXTINF:-1,EPL | Rush Sports 6: Watford vs Everton
+http://cloud9tech.ddns.net:25461/tester/tester/5079
+#EXTINF:-1,EPL | Rush Sports 7: West Ham United vs Brighton & Hove Albion
+http://cloud9tech.ddns.net:25461/tester/tester/5078
+#EXTINF:-1,EPL | Rush Sports 8: Manchester United vs Wolverhampton Wanderers
+http://cloud9tech.ddns.net:25461/tester/tester/5077
+#EXTINF:-1,EPL | Rush Sports 9: Burnley vs Arsenal
+http://cloud9tech.ddns.net:25461/tester/tester/5619
+#EXTINF:-1,EPL | Rush Sports 10: Tottenham Hotspur vs Manchester City
+http://cloud9tech.ddns.net:25461/tester/tester/5620
+#EXTINF:-1,Monday: 2200 Patronato vs Arsenal (Superliga Argentina)
+http://cloud9tech.ddns.net:25461/tester/tester/7327
+#EXTINF:-1,Tuesday: 0010 Newells Old Boys vs San Lorenzo (Superliga Argentina)
+http://cloud9tech.ddns.net:25461/tester/tester/7339
+#EXTINF:-1,Tuesday: 1730 Frankfurt vs Leipzig (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7334
+#EXTINF:-1,Tuesday: 1730 Kaiserslautern vs Dusseldorf (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7335
+#EXTINF:-1,Tuesday: 1800 Lille vs Rennes (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7329
+#EXTINF:-1,Tuesday: 1800 Monaco vs Angers (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7330
+#EXTINF:-1,Tuesday: 1945 Liverpool vs Shrewsbury Town **FOREIGN (FA Cup) 
+http://cloud9tech.ddns.net:25461/tester/tester/7353
+#EXTINF:-1,Tuesday: 1945 Schalke vs vs Hertha Berlin (DFB Polka)
+http://cloud9tech.ddns.net:25461/tester/tester/7336
+#EXTINF:-1,Tuesday: 1945 Werder Bremen vs Dortmund (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7337
+#EXTINF:-1,Tuesday: 2000 Granada vs Valencia (Copa del Rey)
+http://cloud9tech.ddns.net:25461/tester/tester/7338
+#EXTINF:-1,Tuesday: 2000 Nantes vs PSG (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7331
+#EXTINF:-1,Tuesday: 2005 Oxford United vs Newcastle United (FA Cup)
+http://cloud9tech.ddns.net:25461/tester/tester/7332
+#EXTINF:-1,Tuesday: 2005 Oxford United vs Newcastle United (FA Cup)*
+http://cloud9tech.ddns.net:25461/tester/tester/7333
+#EXTINF:-1,Tuesday: 2215 Coquimbo Unido vs Aragua (Copa Sudamericana)
+http://cloud9tech.ddns.net:25461/tester/tester/7341
+#EXTINF:-1,Tuesday: 2215 Nacional Potosi vs Melgar (Copa Sudamericana)
+http://cloud9tech.ddns.net:25461/tester/tester/7342
+#EXTINF:-1,Tuesday: 2215 Universidad Chle vs Internacional (Copa Libertadores)
+http://cloud9tech.ddns.net:25461/tester/tester/7340
+#EXTINF:-1,Wednesday: 0030 Fluminense vs Union La Calera (Copa Sudamericana)
+http://cloud9tech.ddns.net:25461/tester/tester/7366
+#EXTINF:-1,Wednesday: 0030 Macara vs Deportes Tolima (Copa Libertadores)
+http://cloud9tech.ddns.net:25461/tester/tester/7362
+#EXTINF:-1,Wednesday: 0030 Medellin vs Deportivo Tachira (Copa Libertadores)
+http://cloud9tech.ddns.net:25461/tester/tester/7363
+#EXTINF:-1,Wednesday: 0030 Velez Sarsfield vs Aucas (Copa Sudamericana)
+http://cloud9tech.ddns.net:25461/tester/tester/7367
+#EXTINF:-1,Wednesday: 0230 Puebla vs Club America (Liga MX)
+http://cloud9tech.ddns.net:25461/tester/tester/7358
+#EXTINF:-1,Wednesday: 1730 Bayer Leverkusen vs Stuttgart (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7354
+#EXTINF:-1,Wednesday: 1730 Verl vs Union Berlin (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7355
+#EXTINF:-1,Wednesday: 1800 Brest vs Bordeaux (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7349
+#EXTINF:-1,Wednesday: 1800 Montpellier vs Metz (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7347
+#EXTINF:-1,Wednesday: 1800 Nimes vs Dijon (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7346
+#EXTINF:-1,Wednesday: 1800 Olympique Lyon vs Amiens (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7348
+#EXTINF:-1,Wednesday: 1800 Reims vs Nice (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7345
+#EXTINF:-1,Wednesday: 1800 Toulouse vs Strasbourg (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7344
+#EXTINF:-1,Wednesday: 1945 Bayern Munich vs Hoffenheim (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7356
+#EXTINF:-1,Wednesday: 1945 Lazio vs Hellas Verona (Serie A)
+http://cloud9tech.ddns.net:25461/tester/tester/7343
+#EXTINF:-1,Wednesday: 1945 Motherwell vs Celtic (SPFL)
+http://cloud9tech.ddns.net:25461/tester/tester/7359
+#EXTINF:-1,Wednesday: 1945 Motherwell vs Celtic (SPFL)*
+http://cloud9tech.ddns.net:25461/tester/tester/7360
+#EXTINF:-1,Wednesday: 1945 Saarbrucken vs Karlsruher SC (DFB Pokal)
+http://cloud9tech.ddns.net:25461/tester/tester/7357
+#EXTINF:-1,Wednesday: 1945 Tottenham vs Southampton (FA Cup)*
+http://cloud9tech.ddns.net:25461/tester/tester/7351
+#EXTINF:-1,Wednesday: 1945 Tottenham vs Southampton (FA Cup)
+http://cloud9tech.ddns.net:25461/tester/tester/7352
+#EXTINF:-1,Wednesday: 2000 St Etienne vs Olympique vs Marseille (Ligue 1)
+http://cloud9tech.ddns.net:25461/tester/tester/7350
+#EXTINF:-1,Wednesday: 2215 Cerro Largo vs Palestino (Copa Libertadores)
+http://cloud9tech.ddns.net:25461/tester/tester/7364
+#EXTINF:-1,Wednesday: 2215 Fenix vs El Nacional (Copa Sudamericana)
+http://cloud9tech.ddns.net:25461/tester/tester/7368
+#EXTINF:-1,Wednesday: 2215 Universitario vs Cerro Porteno (Copa Libertadores)
+http://cloud9tech.ddns.net:25461/tester/tester/7365
